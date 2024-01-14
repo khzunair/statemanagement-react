@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+#name {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+#introduction {
+  font-size: 16px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+#profile-img {
+  float: right;
+  border-radius: 50%;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  text-align: left;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 15px;
+  display: inline-block;
+}
+
+nav a:hover {
+  color: #ffcc00; /* Change the color on hover */
+}
+
+section {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid #333;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  margin: 20px 0 0 0;
+  padding: 20px 0;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
