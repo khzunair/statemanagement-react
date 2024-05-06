@@ -1,13 +1,13 @@
 
 import Footer from "./Portfolio Components/Footer"
 import { MySections } from "./Portfolio Components/MySections"
-import { Navbar } from "./Portfolio Components/Navbar"
+import { Header } from "./Portfolio Components/Header"
 
 
 const Portfolio = () => {
   return (
     <div>
-        <Navbar />
+        <Header />
         <MySections />
         <Footer />
       

@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 import Portfolio from "./components/Portfolio";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { MySections } from "./components/Portfolio Components/MySections";
